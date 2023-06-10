@@ -1,0 +1,365 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: #F5F5F5;
+font-family: sans-serif !important;
+}
+
+
+.main1{
+    padding-top: 20px;
+    height: 600px;
+        background: linear-gradient(to right, #151411 0%, #322f26d9 74.96%);
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+}
+.list{
+    
+}
+.list ul{
+    display: flex;
+}
+.list li{
+    list-style: none;
+        padding: 4px 15px 5px 7px;
+        margin: 20px 7px 3px 16px;
+   background: #326756;
+border-radius: 30px;
+}
+.icon i{
+        margin: 26px 20px 6px 2px;
+}
+.hshoe{
+    width: 406px;
+    height: 400px;
+    position: relative;
+    top: -389px;
+    left: 860px;
+}
+.hshoe img{
+    width: 405px;
+    height: 609px;
+}
+
+/*  this is for the mid part  */
+
+#but{
+    background: linear-gradient(100.13deg, rgba(15, 38, 30, 0.1) 6.38%, rgba(217, 217, 217, 0.084) 96.04%);
+box-shadow: 0px 10px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border: none;
+}
+.star{
+    color: gold;
+}
+
+
+.btn button{
+    
+}
+.move{
+    width: 400px;
+    position: relative;
+    top: -61px;
+    left: 170px;
+}
+.com{
+        font-size: 70px;
+    color: #BEE856;
+}
+.ever{
+    font-size: 35px;
+    color: white;
+}
+.btn2 button{
+    margin-top: 10px;
+    padding: 9px 28px 11px 19px;
+    font-size: 17px;
+    border-radius: 13px;
+    border: none;
+    background: #03AF95;
+}
+/* this is for cards in head    */
+.cards{
+        width: 500px;
+    display: flex;
+    position: relative;
+    top: -383px;
+    left: 170px;
+}
+.cards .card-body img{
+    width: 150px;
+    position: relative;
+    top: -100px;
+    left: -32px;
+}
+#cardt{
+    position: relative;
+    top: -140;
+    left: 0px;
+    
+}
+.card-text{
+    padding: 0px;
+        margin: 0px;
+    color: white;
+}
+.color{
+    color: darkgoldenrod;
+}
+.cards .card{
+    width:9rem;
+    height: 110px;
+    margin: 1px 1px 1px 10px;
+    background: linear-gradient(99.23deg, rgba(224, 246, 238, 0.098) 3.66%, rgba(188, 207, 201, 0.1) 98.62%);
+box-shadow: 0px 10px 9px rgba(0, 0, 0, 0.25);
+}
+
+/* this sis tioerr the main2 */
+
+#main2{
+    overflow: hidden;
+}
+#know{
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+#run{
+    font-size: 13px;
+    
+}
+#r1{
+    margin-top: 10px;
+}
+#r2{
+    margin-top: 30px;
+}
+#r3{
+     margin-top: 40px;
+}
+.empyt{
+     margin-top: 5px;
+    width: 45px;
+    height: 45px;
+    background-color: aquamarine;
+    border-radius: 7px;
+}
+.bold{
+    font-size: 13px;
+    font-weight: 600;
+}
+.para{
+    font-size: 12px;
+}
+.larcircle{
+    position: relative;
+    left: 85px;
+    top: 0px;
+    width: 237px;
+    height: 238px;
+    background: linear-gradient(180deg, #71ECDA 0%, #FF7F2A 112.94%);
+    border-radius: 137px;
+}
+.larcircle img{
+   position: relative;
+    left: -163px;
+    top: -154px;
+    width: 563px;
+    height: 329px;
+    height: 503px;
+}
+.our{
+    margin: auto;
+    width: 400px;
+    font-size: 35px;
+    font-weight: bold;
+}
+#we{
+    font-size: 40px;
+    font-weight: bold;
+}
+#this{
+    
+}
+#butt{
+    
+}
+
+
+
+/* this is the below cards  */
+
+
+
+.khan .card-body img{
+    width: 150px;
+    position: relative;
+    top: -102px;
+    left: -10px;
+}
+#cardt{
+    position: relative;
+    top: -140;
+    left: 0px;
+    font-weight: bold;
+    
+}
+.card-text{
+    padding: 0px;
+        margin: 0px;
+    color: black;
+}
+.color{
+    color: black;
+}
+.khan .card{
+    width:13rem;
+    height: 110px;
+    margin: 1px 1px 1px 10px;
+    
+}
+/* this is sfot the 3rd div */
+#main5{
+    background: #0B0B0B;
+}
+
+
+.colorcolor{
+    background: linear-gradient(180deg, #E19650 0%, #7CE3CC 100%);
+}
+
+
+
+
+
+
+/* this si for the part 6*/
+
+.let{
+    font-size: 35px;
+    font-weight: bold;
+    width: 450px;
+    margin: auto;
+}
+
+#t1{
+    background-color: red;
+}
+#t2{
+    background-color: aqua;
+}
+#t3{
+    background-color: antiquewhite;
+}
+#t4{
+    background-color: gold;
+}
+#t5{
+    background-color: black;
+}
+#t6{
+    background-color: royalblue;
+}
+
+/* this is for the part 6   */
+
+.main6{
+    display: flex;
+    width: 1000px;
+    margin: auto;
+}
+.display{
+    justify-content: space-between;
+    display: flex;
+}
+child1{
+    
+}
+.text{
+    font-size: 15px;
+    font-weight: 800;
+    margin-top: 10px;
+}
+.founder{
+    font-size: 13px;
+    color:gray;
+    font-weight: 500;
+}
+.icon{
+    
+}
+.these{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 40px;
+    word-spacing: 3px;
+}
+.stage{
+    margin-top: 25px;
+    font-size: 12px;
+}
+.image6{
+    
+}
+.image6 img{
+    
+}
+
+
+/* this is for the footer part   */
+
+
+.main7{
+    height: 300px;
+    background: #0B0B0B;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+.logo{
+    
+}
+.fnav{
+    
+}
+.fnav ul{
+    display: flex;
+}
+.fnav li{
+    list-style: none;
+    margin: 51px 36px 10px 10px;
+}
+.display6{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    width: 1346px;
+}
+.eng{
+    
+}
+.icon6 i{
+    padding: 2px 2px 6px 63px;
+    margin-left: 20px;
+}
+.right{
+    
+}
+
+
+
+
+
+
+
